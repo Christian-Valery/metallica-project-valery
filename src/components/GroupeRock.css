@@ -1,0 +1,16 @@
+.nomGroupe{
+    font-size:36px;
+}
+.img{
+    background-color: blanchedalmond;
+}
+.abstract{
+    padding-left:100px;
+    padding-right:100px;
+    text-align: "justified";
+}
+
+.liensExternes{
+    padding: 20px;
+    display: flex;
+}
